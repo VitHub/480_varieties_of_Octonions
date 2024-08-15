@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Dave_Barber%27s_other_pages\480 varieties of octonion multiplication_source_code\480_varieties_of_Octonions\480_varieties_of_Octonions.cpp">
+    <ClCompile Include="480_varieties_of_Octonions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
